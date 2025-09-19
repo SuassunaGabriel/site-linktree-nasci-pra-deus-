@@ -47,6 +47,7 @@ body{
     #ff7c30,     /* laranja */
     #0367a6 80%  /* azul petróleo */
   );
+  background-attachment: fixed;
   
     color: var(--color-font-primary);
     height: 100vh;
@@ -57,7 +58,7 @@ main{
 }
 
 .container__subprincipal{
-    margin-top: 5rem;
+    margin-top: 3rem;
     width: 100%;
     display: flex;
     flex-direction: column;
