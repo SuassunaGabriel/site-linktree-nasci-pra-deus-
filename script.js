@@ -1,0 +1,1 @@
+document.querySelector('.ano').innerText = new Date().getFullYear();
